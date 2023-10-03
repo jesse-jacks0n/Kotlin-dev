@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TTS</string>
+    <string name="enter_text">Enter text</string>
+    <string name="speak">Speak</string>
+</resources>
